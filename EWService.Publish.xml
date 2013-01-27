@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\EWService" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/EWService.pdb" publishTime="01/26/2013 20:25:03" />
+    <file relUrl="bin/EWService.dll" publishTime="01/26/2013 20:25:03" />
+    <file relUrl="EWService.asmx" publishTime="01/26/2013 20:12:30" />
+    <file relUrl="Web.config" publishTime="01/26/2013 20:28:10" />
+  </publishProfile>
+</publishData>
